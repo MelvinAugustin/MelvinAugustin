@@ -1,7 +1,7 @@
 ## Hey there! 👋 I am Melvin Augustin
 I'm a computer science major at Shepherd University
 
-I love challenging my self by building new projects and learning hands on
+I love challenging myself by building new projects 🛠️ and learning hands on
 
 My main languages are
   - Python
@@ -9,9 +9,9 @@ My main languages are
   - C#
 
 What I am up to
-  - I am currently building a Air Quality Index application
-  - Learning how real software is designed and built
-  - I previously build my first functioning game
+  - 🌿I am currently building an Air Quality Index application
+  - 🏗️Learning how real software is designed and built
+  - 🎮I previously built my first functioning game
   
 
 <!--
